@@ -6,4 +6,5 @@ Il mio primo progetto su GitHub
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
-Ciao sono giorgio
+Ciao sono Giorgio
+Ciao sono Carlo
